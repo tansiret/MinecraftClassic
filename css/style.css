@@ -39,7 +39,7 @@ body, html {
 	padding: 0;
 	background-color: #222;
 	color: #e0d0d0;
-	background-image:url('/web/20100611210045im_/http://minecraft.net/img/bg.gif');
+	background-image:url('/MinecraftClassic/img/bg.gif');
 	font-weight: normal;
 	font-family: sans-serif;
     height:100%;	
@@ -48,7 +48,7 @@ body, html {
 #toppanel {
 	height: 48px;
 	background-color: #555;
-	background-image:url('/web/20100611210045im_/http://minecraft.net/img/top-bg.gif');
+	background-image:url('/MinecraftClassic/img/top-bg.gif');
 	border-bottom: 3px solid #000;	
 }
 
