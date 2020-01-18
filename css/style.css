@@ -39,17 +39,17 @@ body, html {
 	padding: 0;
 	background-color: #222;
 	color: #e0d0d0;
-	background-image:url('/MinecraftClassic/img/bg.gif');
+	background-image:url('../img/bg.gif');
 	font-weight: normal;
 	font-family: sans-serif;
-    height:100%;	
+    height:100%;
 }
 
 #toppanel {
 	height: 48px;
 	background-color: #555;
-	background-image:url('/MinecraftClassic/img/top-bg.gif');
-	border-bottom: 3px solid #000;	
+	background-image:url('../img/top-bg.gif');
+	border-bottom: 3px solid #000;
 }
 
 #toppanel #prepurchasesplash {
@@ -86,7 +86,7 @@ body, html {
 
 #toppanel #logo {
 	float: left;
-	border: 0px; 
+	border: 0px;
 }
 
 .left {
